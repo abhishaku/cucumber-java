@@ -1,10 +1,10 @@
-# Cucumber-Java Skeleton
+Cucumber-Java Skeleton
 
 This is sample project of cucumber tests with excellent reporting.
 
 Pre-requisite:
-	#. Java environment variable
-	#. Maven environment variable
+	1. Java environment variable
+	2. Maven environment variable
 	
 To build this project:
 	#. Go to root folder (folder where pom.xml resides)
