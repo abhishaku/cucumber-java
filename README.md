@@ -4,10 +4,11 @@ This is sample project of cucumber tests with excellent reporting.
 
 Pre-requisite:
 
-	1. Java environment variable
-	2. Maven environment variable
+	#. Java environment variable
+	#. Maven environment variable
 	
 To build this project:
+	
 	#. Go to root folder (folder where pom.xml resides)
 	#. Open command prompt
 	#. Fire command "mvn clean install"
@@ -16,6 +17,7 @@ To build this project:
 	
 	
 To view the report for test cases:
+
 	#. Test report will be available only after maven has finished execution.
 	#. Go to {root-folder}/target/cucumber-report
 	#. Open index.html
